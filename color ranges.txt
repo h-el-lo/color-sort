@@ -1,0 +1,24 @@
+white
+hue range 0 - 360
+sat range 0 - 80
+lightness 95 - 100
+
+brown
+hue range 20 - 40
+sat range 30 - 90
+lightness 20 - 55
+
+blue
+hue range 190 - 250
+sat range 30 - 100
+lightness 10 - 80
+
+green
+hue range 85 - 155
+sat range 25 - 100
+lightness 10 -80
+
+red
+hue 0 - 15, 350 - 360
+sat range 60 - 100
+lightness 30 - 80
